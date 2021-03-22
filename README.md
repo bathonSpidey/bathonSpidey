@@ -1,5 +1,6 @@
-### Hi there 👋
 [![CodeWars](https://www.codewars.com/users/Abirino/badges/large)](https://www.codewars.com/users/Abirino 'My Honor Badge')
+### Hi there 👋
+
 <!--
 **bathonSpidey/bathonSpidey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
