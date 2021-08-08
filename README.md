@@ -1,4 +1,4 @@
-# Whose That Pokemon?  <img src="http://i.imgur.com/HjpTdNa.png" height="36"> 🤓
+# Whose That Pokemon?  <img src="http://i.imgur.com/HjpTdNa.png" height="36">(***PS: Congratulations!** you are my ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) visitor!**)
 [![CodeWars](https://www.codewars.com/users/Abirino/badges/large)](https://www.codewars.com/users/Abirino 'My Honor Badge')
 <br>
 ## Base Stats
@@ -19,7 +19,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abir.bhattacharyya22@gmail.com?subject=HelloWorld!)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://roboinno.wordpress.com/)
 
-**PS: Congratulations!** you are my ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) visitor!
+
 <br>
 ## Battle Stats & History
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey&hide=Jupyter%20Notebook&layout=compact&theme=radical)](https://github.com/bathonSpidey/github-readme-stats)
