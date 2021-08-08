@@ -22,9 +22,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abir.bhattacharyya22@gmail.com?subject=HelloWorld!)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://roboinno.wordpress.com/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Congratulations! you are my ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) visitor!
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bathonSpidey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bathonSpidey&show_icons=true&theme=dark)
+
+
 <!--
 **bathonSpidey/bathonSpidey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
