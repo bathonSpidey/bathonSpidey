@@ -22,9 +22,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abir.bhattacharyya22@gmail.com?subject=HelloWorld!)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://roboinno.wordpress.com/)
 
-Congratulations! you are my ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) visitor!
+**PS: Congratulations!** you are my ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) visitor!
 <br>
 ![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bathonSpidey&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey)](https://github.com/bathonSpidey/github-readme-stats)
+
 
 
 <!--
