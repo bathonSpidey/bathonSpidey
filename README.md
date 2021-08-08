@@ -24,7 +24,7 @@
 
 Congratulations! you are my ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) visitor!
 <br>
-![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bathonSpidey&show_icons=true&theme=dracula)
+![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bathonSpidey&show_icons=true&theme=tokyonight)
 
 
 <!--
