@@ -1,4 +1,4 @@
-# Whose That Pokemon? 👋
+# Whose That Pokemon?  <img src="http://i.imgur.com/HjpTdNa.png" height="36">
 [![CodeWars](https://www.codewars.com/users/Abirino/badges/large)](https://www.codewars.com/users/Abirino 'My Honor Badge')
 <br>
 ## Base Stats
@@ -13,7 +13,7 @@ Frameworks : ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badg
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 👋
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
