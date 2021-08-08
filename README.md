@@ -1,5 +1,5 @@
 # Whose That Pokemon?  <img src="http://i.imgur.com/HjpTdNa.png" height="36">
-***PS: Congratulations!** you are my ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) visitor!**
+***PS: Congratulations!** you are my ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) visitor!***<br>
 [![CodeWars](https://www.codewars.com/users/Abirino/badges/large)](https://www.codewars.com/users/Abirino 'My Honor Badge')
 <br>
 ## Base Stats
