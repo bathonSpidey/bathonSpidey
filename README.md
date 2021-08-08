@@ -1,5 +1,4 @@
 # Whose That Pokemon?  <img src="http://i.imgur.com/HjpTdNa.png" height="36">
-***PS: Congratulations!** you are my ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) visitor!***<br>
 [![CodeWars](https://www.codewars.com/users/Abirino/badges/large)](https://www.codewars.com/users/Abirino 'My Honor Badge')
 <br>
 ## Base Stats
@@ -27,7 +26,8 @@
 ![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bathonSpidey&show_icons=true&theme=radical)
 
 
-
+***PS: Congratulations! you are my ![](https://visitor-badge.glitch.me/badge?page_id=page.id) visitor!***
+<br>
 <!--
 **bathonSpidey/bathonSpidey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
