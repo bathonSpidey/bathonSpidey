@@ -18,14 +18,13 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Abir-Bhattacharyya-5)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abir.bhattacharyya22@gmail.com?subject=HelloWorld!)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://roboinno.wordpress.com/)
-
-
 <br>
-## Battle Stats & History
+
+## Battle Stats and History
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey&hide=Jupyter%20Notebook&layout=compact&theme=radical)](https://github.com/bathonSpidey/github-readme-stats)
 ![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bathonSpidey&show_icons=true&theme=radical) <br>
-PS: Congratulations! you are my ![](https://visitor-badge.glitch.me/badge?page_id=page.id) visitor!
+***PS: Congratulations! you are my ![](https://visitor-badge.glitch.me/badge?page_id=page.id) visitor!***.
 <!--
 **bathonSpidey/bathonSpidey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
