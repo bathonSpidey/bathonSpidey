@@ -25,7 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey&hide=Jupyter%20Notebook,html,css,scss&layout=compact&theme=radical)](https://github.com/bathonSpidey/github-readme-stats)
 ![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bathonSpidey&show_icons=true&theme=radical) <br>
 
-<p>[!Personal Website] (https://acewebslinger-61aaa.firebaseapp.com/)</p>
+<p>[Personal Website] (https://acewebslinger-61aaa.firebaseapp.com/)</p>
 <p align="right"> <b><i> PS: Thank you for stooping by! Total people visited me since 22.7.2022 </b></i> <img src="https://visitor-badge.glitch.me/badge?page_id=bathonSpidey.id&left_color=blue&right_color=red" </p> 
 <!--
 **bathonSpidey/bathonSpidey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
