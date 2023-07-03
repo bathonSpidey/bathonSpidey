@@ -26,7 +26,7 @@
 ![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bathonSpidey&show_icons=true&theme=radical) <br>
 
 [Personal Website](https://acewebslinger-61aaa.firebaseapp.com/)
-<p align="right"> <b><i> PS: Thank you for stopping by! Total people visited me since 22.7.2022 </b></i> <img src="https://komarev.com/ghpvc/?username=bathonSpidey&color=green" </p> 
+<p align="right"> <b><i> PS: Thank you for stopping by! Total people visited me since 01.7.2023 </b></i> <img src="https://komarev.com/ghpvc/?username=bathonSpidey&color=orange" </p> 
 <!--
 **bathonSpidey/bathonSpidey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
