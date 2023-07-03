@@ -22,7 +22,7 @@
 
 ## Battle Stats and History
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey&hide=Jupyter%20Notebook,html,css,scss&layout=compact&theme=radical)](https://github.com/bathonSpidey/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey&hide=Jupyter%20Notebook,C%2B%2B,html,C,css,scss&layout=compact&theme=radical)](https://github.com/bathonSpidey/github-readme-stats)
 ![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bathonSpidey&show_icons=true&theme=radical) <br>
 
 [Personal Website](https://acewebslinger-61aaa.firebaseapp.com/)
