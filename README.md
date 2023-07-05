@@ -25,6 +25,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey&hide=Jupyter%20Notebook,C%2B%2B,html,C,css,scss&layout=compact&theme=radical)](https://github.com/bathonSpidey/github-readme-stats)
 <a href="https://stats.hyochan.dev/en/stats/bathonSpidey"><img src="https://stats.hyochan.dev/api/github-stats?login=bathonSpidey" width="600" /></a>
  <br>
+ <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bathonSpidey&theme=react&border=61dafb&hide_border=true" alt="abir" />
+    </a>
 
 [Personal Website](https://acewebslinger-61aaa.firebaseapp.com/)
 <p align="right"> <b><i> PS: Thank you for stopping by! Total people visited me since 01.7.2023 </b></i> <img src="https://komarev.com/ghpvc/?username=bathonSpidey&color=orange" </p> 
