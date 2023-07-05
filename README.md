@@ -29,9 +29,7 @@
    <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bathonSpidey&theme=nightowl&border=61dafb&hide_border=true" alt="abir" />
 </a>
  </p>
- <p align="left">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey&hide=Jupyter%20Notebook,C%2B%2B,html,C,css,scss&layout=compact&theme=radical)](https://github.com/bathonSpidey/github-readme-stats)
-</p>
   <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bathonSpidey&theme=nightowl&bg_color=20232a&hide_border=true" width="100%"/>
 
