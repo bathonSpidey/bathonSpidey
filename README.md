@@ -20,10 +20,8 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://roboinno.wordpress.com/)
 <br>
 
-## Battle Stats and History
-<p align="center"> 
+## Battle Stats and History 
 <a align="center" href="https://stats.hyochan.dev/en/stats/bathonSpidey"><img src="https://stats.hyochan.dev/api/github-stats?login=bathonSpidey" width="600" /></a>
-</p>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey&hide=Jupyter%20Notebook,C%2B%2B,html,C,css,scss&layout=compact&theme=radical)](https://github.com/bathonSpidey/github-readme-stats)
 <a  align="right" href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
