@@ -22,15 +22,17 @@
 
 ## Battle Stats and History
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey&hide=Jupyter%20Notebook,C%2B%2B,html,C,css,scss&layout=compact&theme=radical)](https://github.com/bathonSpidey/github-readme-stats)
 <a href="https://stats.hyochan.dev/en/stats/bathonSpidey"><img src="https://stats.hyochan.dev/api/github-stats?login=bathonSpidey" width="600" /></a>
-<be>
-<p align="center">
+<br>
+<p align="right">
 <a  align="center" href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
    <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bathonSpidey&theme=nightowl&border=61dafb&hide_border=true" alt="abir" />
 </a>
  </p>
-<br>
+ <p align="left">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey&hide=Jupyter%20Notebook,C%2B%2B,html,C,css,scss&layout=compact&theme=radical)](https://github.com/bathonSpidey/github-readme-stats)
+</p>
+  <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bathonSpidey&theme=nightowl&bg_color=20232a&hide_border=true" width="100%"/>
 
 [Personal Website](https://acewebslinger-61aaa.firebaseapp.com/)
