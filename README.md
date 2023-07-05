@@ -23,8 +23,7 @@
 ## Battle Stats and History
 
 <a align="center" href="https://stats.hyochan.dev/en/stats/bathonSpidey"><img src="https://stats.hyochan.dev/api/github-stats?login=bathonSpidey" width="600" /></a>
-
- <br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey&hide=Jupyter%20Notebook,C%2B%2B,html,C,css,scss&layout=compact&theme=radical)](https://github.com/bathonSpidey/github-readme-stats)
 <a  align="right" href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
    <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bathonSpidey&theme=nightowl&border=61dafb&hide_border=true" alt="abir" />
