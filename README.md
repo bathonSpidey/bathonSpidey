@@ -23,7 +23,7 @@
 ## Battle Stats and History
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey&hide=Jupyter%20Notebook,C%2B%2B,html,C,css,scss&layout=compact&theme=radical)](https://github.com/bathonSpidey/github-readme-stats)
-![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bathonSpidey&show_icons=true&theme=radical) <br>
+ <br>
 
 [Personal Website](https://acewebslinger-61aaa.firebaseapp.com/)
 <p align="right"> <b><i> PS: Thank you for stopping by! Total people visited me since 01.7.2023 </b></i> <img src="https://komarev.com/ghpvc/?username=bathonSpidey&color=orange" </p> 
