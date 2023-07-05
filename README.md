@@ -31,7 +31,7 @@
 </a>
  </p>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bathonSpidey&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bathonSpidey&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
 
 [Personal Website](https://acewebslinger-61aaa.firebaseapp.com/)
 <p align="right"> <b><i> PS: Thank you for stopping by! Total people visited me since 01.7.2023 </b></i> <img src="https://komarev.com/ghpvc/?username=bathonSpidey&color=orange" </p>
