@@ -27,7 +27,7 @@
 <be>
 <p align="center">
 <a  align="center" href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-   <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bathonSpidey&theme=react&border=61dafb&hide_border=true" alt="abir" />
+   <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bathonSpidey&theme=sunny&border=61dafb&hide_border=true" alt="abir" />
 </a>
  </p>
 <br>
