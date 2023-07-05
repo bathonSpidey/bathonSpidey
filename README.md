@@ -27,11 +27,11 @@
 <be>
 <p align="center">
 <a  align="center" href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-   <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bathonSpidey&theme=dracula&border=61dafb&hide_border=true" alt="abir" />
+   <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bathonSpidey&theme=nightowl&border=61dafb&hide_border=true" alt="abir" />
 </a>
  </p>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bathonSpidey&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bathonSpidey&theme=nightowl&bg_color=20232a&hide_border=true" width="100%"/>
 
 [Personal Website](https://acewebslinger-61aaa.firebaseapp.com/)
 <p align="right"> <b><i> PS: Thank you for stopping by! Total people visited me since 01.7.2023 </b></i> <img src="https://komarev.com/ghpvc/?username=bathonSpidey&color=orange" </p>
