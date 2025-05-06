@@ -37,6 +37,8 @@
 
 [Personal Website |   ](https://acewebslinger-61aaa.firebaseapp.com/) 
 [Whisk Wizard AI generated cooking recipes](https://whiskwizard-e45a0.web.app/)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C125%20hrs%2051%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.9%20million%20lines%20of%20code-blue)
 <p align="right"> <b><i> PS: Thank you for stopping by! Total people visited me since 01.7.2023 </b></i> <img src="https://komarev.com/ghpvc/?username=bathonSpidey&color=orange" </p>
  
 
