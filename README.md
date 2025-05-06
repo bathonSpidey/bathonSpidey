@@ -21,7 +21,6 @@
 <br>
 
 ## Battle Stats and History 
-![bathonSpidey github-stats](https://stats.hyochan.dev/api/github-stats?login=bathonSpidey)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey&hide=Jupyter%20Notebook,C%2B%2B,html,C,css,scss&layout=compact&theme=radical)](https://github.com/bathonSpidey/github-readme-stats)
 <a  align="right" href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
