@@ -21,8 +21,9 @@
 <br>
 
 ## Battle Stats and History
-![bathonSpidey github-stats](https://stats.hyochan.dev/api/github-stats?login=bathonSpidey)
-<br>
+<details open>
+ <summary>GitHub Stats</summary>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey&hide=Jupyter%20Notebook,C%2B%2B,html,C,css,scss&layout=compact&theme=radical)
 
 <a  align="right" href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -31,6 +32,7 @@
 
   <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bathonSpidey&theme=nightowl&bg_color=20232a&hide_border=true" width="100%"/>
+</details
 
 
 [Personal Website |   ](https://acewebslinger-61aaa.firebaseapp.com/) 
