@@ -57,7 +57,7 @@
   </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bathonSpidey&theme=nightowl&border=61dafb&hide_border=true" alt="GitHub Streak Stats" />
+    [Streak](https://github-readme-streak-stats.herokuapp.com/?user=bathonSpidey&theme=nightowl&border=61dafb&hide_border=true)
   </p>
 
   <p align="center">
