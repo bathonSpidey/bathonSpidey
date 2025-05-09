@@ -21,6 +21,7 @@
 > 🧪 **Research XP:** [ResearchGate](https://www.researchgate.net/profile/Abir-Bhattacharyya-5)  
 > 🎯 **Special Stats:** AI, Robotics, Gen AI, Embedded Systems  
 > 🌐 **Personal Website:** [acewebslinger](https://acewebslinger-61aaa.firebaseapp.com/)
+> 🌐 **Blog:** [acewebslinger](https://roboinno.wordpress.com/)
 </details>
 
 ## Pokédex
