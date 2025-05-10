@@ -48,7 +48,7 @@
 <br>
 </details>
 
-## Battle Stats and History
+## Battle Stats and Trophies
 <details open>
   <summary>Stats</summary>
   <br/>
@@ -63,6 +63,9 @@
 
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=bathonSpidey&theme=nightowl&bg_color=20232a&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=bathonSpidey&theme=onedark&rank=SECRET,S,AAA,AA,A,B,C"  width="100%" alt="Trophies" />
   </p>
 </details>
 
