@@ -28,7 +28,8 @@
 
 ## ⚡ Pokédex  
 <details>
-<summary><strong>Type: Electric | Fire</strong></summary>
+<summary>
+<strong> Abirino | Type: Electric | Fire</strong></summary>
 
 ### 🧠 Base Stats
 <p>
