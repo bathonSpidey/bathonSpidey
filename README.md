@@ -66,13 +66,19 @@
   </p>
 </details>
 
-
-
 ## Projects
 
-- [Whisk Wizard (AI-generated cooking recipes)](https://whiskwizard-e45a0.web.app/)
-- [Auralis (AI Agent to manage spotify)](https://auralis-7hhf8fgymxuwbpzyumhtcq.streamlit.app/)
-- [Balance Point (AI Agent to manage monthly budget)](Comming Soon) 
+### 🔗 Featured AI Projects
+
+- 🧙‍♂️ [**Whisk Wizard**](https://whiskwizard-e45a0.web.app/)  
+  *AI-generated cooking recipes that bring magic to your meals.*
+
+- 🎵 [**Auralis**](https://auralis-7hhf8fgymxuwbpzyumhtcq.streamlit.app/)  
+  *An AI agent to manage and personalize your Spotify experience.*
+
+- 💰 **Balance Point** *(Coming Soon)*  
+  *An AI agent designed to help you manage your monthly budget with ease.*
+ 
 
 ---
 
