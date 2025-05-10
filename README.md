@@ -50,7 +50,7 @@
 
 ## Battle Stats and History
 <details open>
-  <summary>📊 GitHub Stats</summary>
+  <summary>Stats</summary>
   <br/>
 
   <p align="center">
