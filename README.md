@@ -48,7 +48,7 @@
 <br>
 </details>
 
-## Battle Stats and Trophies
+## Badges and Trophies
 <details open>
   <summary>Stats</summary>
   <br/>
