@@ -114,6 +114,7 @@
 ### 🔗 AI Projects
 - 🧙‍♂️ [**Whisk Wizard**](https://whiskwizard-e45a0.web.app/) — *AI-generated cooking recipes that bring magic to your meals.*
 - 🎵 [**Auralis**](https://auralis-7hhf8fgymxuwbpzyumhtcq.streamlit.app/) — *An AI agent to personalize your Spotify.*
+- 🧹 [**Sortly**](https://www.github.com/bathonSpidey/Sortly) - *An AI agent that cleans your overloaded messy folders*
 - 💰 **Balance Point** *(Coming Soon)* — *Smart budget management with AI.*
 
 ---
