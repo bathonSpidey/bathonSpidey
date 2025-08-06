@@ -112,10 +112,20 @@
 ## 🚀 Featured Projects
 
 ### 🔗 AI Projects
+- 🌾 [**Terraflux**](https://raiseagriculture.com/products/irrigation) — *Scientific water retention model combined with Agent to give irrigation insights for farmers*
+- 🔎 [**AgroLume**](https://raiseagriculture.com/products/monitoring) — *Vsion based crop monitoring system to shed light on nutrient content*
 - 🧙‍♂️ [**Whisk Wizard**](https://whiskwizard-e45a0.web.app/) — *AI-generated cooking recipes that bring magic to your meals.*
 - 🎵 [**Auralis**](https://auralis-7hhf8fgymxuwbpzyumhtcq.streamlit.app/) — *An AI agent to personalize your Spotify.*
 - 🧹 [**Sortly**](https://www.github.com/bathonSpidey/Sortly) - *An AI agent that cleans your overloaded messy folders*
 - 💰 **Balance Point** *(Coming Soon)* — *Smart budget management with AI.*
+
+### 🧱 Fullstack Projects
+- 🌐 [**Raise Website**](raiseagriculture.com) - *Fast API backend + (React & Vite frontend)+ MongoDB + Firebase: website for the farming community driven by the farming community*
+- 🕸️ [**Personal Website**](https://roboinno.web.app/) - *Javascript backend + (Html & tailwind css frontend): personal website to connect with like minded people*
+
+### 🥷 Ops Projects
+- 🧠 **Nural Network from Sratch** - *Jenkins and Github actions pipeline*
+- **All the AI projects above**
 
 ---
 
