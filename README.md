@@ -120,6 +120,7 @@
 - 💰 **Balance Point** *(Coming Soon)* — *Smart budget management with AI.*
 
 ### 🧱 Fullstack Projects
+- 🕸️ [**Team Building App**](Comming Soon) - *Next js escape online escape rooms for team building*
 - 🌐 [**Raise Website**](raiseagriculture.com) - *Fast API backend + (React & Vite frontend)+ MongoDB + Firebase: website for the farming community driven by the farming community*
 - 🕸️ [**Personal Website**](https://roboinno.web.app/) - *Javascript backend + (Html & tailwind css frontend): personal website to connect with like minded people*
 
