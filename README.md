@@ -31,7 +31,7 @@
 <summary>
 <strong>Open Pokedex</strong></summary>
 
-<img  align="center" src="https://imgur.com/gallery/pokedex-Jmjwtnn" />
+<img  align="center" src="https://i.imgur.com/hoPKGNN.png" />
 <p align="right"><a href="https://www.deviantart.com/wanderingrandomer/art/Pokedex-Template-883453428" target="_blank"><em>Pokedex art credit Devian Art</em></a></p>
 
 
