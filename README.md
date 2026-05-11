@@ -133,7 +133,7 @@
 
 ## 🧭 Journey So Far
 <p align="center">
-  <img src="https://img.shields.io/github/followers/bathonSpidey?style=social" />
+  <img src="https://img.shields.io/github/followers/bathonSpidey" />
 </p>
 
 <p align="center">
