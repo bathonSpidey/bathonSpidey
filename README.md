@@ -19,7 +19,7 @@
 > 🏆 **Code Honor:** [CodeWars](https://www.codewars.com/users/Abirino)  
 > 🧪 **Research XP:** [ResearchGate](https://www.researchgate.net/profile/Abir-Bhattacharyya-5)  
 > 🎯 **Focus Areas:** AI · Robotics · Gen AI · Embedded Systems  
-> 🌐 **Portfolio:** [acewebslinger](https://acewebslinger-61aaa.firebaseapp.com)  
+> 🌐 **Portfolio:** [acewebslinger](https://roboinno.web.app/)  
 > ✍️ **Blog:** [Be The Change](https://roboinno.wordpress.com/)
 
 </details>
