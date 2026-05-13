@@ -97,9 +97,7 @@
 <details open>
 <summary><strong>Stats</strong></summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathonSpidey&hide=Jupyter%20Notebook,C%2B%2B,html,C,css,scss&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+[![Gyms Trained in](https://helio-github-stats.vercel.app/api/top-langs?username=bathonspidey&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Gyms+Trained+in&hide=jupyter+notebook%2C+c%2C+html%2C+c%2B%2B&langs_count=5&size_weight=2&count_weight=1.5)](https://nice-readme.vercel.app/top-langs)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bathonSpidey&theme=nightowl&border=61dafb&hide_border=true" alt="Streak" />
@@ -165,13 +163,30 @@
 
 ---
 
-## 🧭 Journey So Far
+## 🧭 The Journey: Pallet Town to Indigo Plateau
 <p align="center">
-  <img src="https://img.shields.io/github/followers/bathonSpidey" />
+  <img src="https://img.shields.io/badge/Region-Baden--Baden-red?style=for-the-badge&logo=pokemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trainer_Class-Engineer-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bathonSpidey&color=orange" />
+  <!-- GitHub Followers as 'Party Members' -->
+  <img src="https://img.shields.io/github/followers/bathonSpidey?label=Party%20Members&style=social" />
 </p>
 
-<p align="center"><em>“You will never know if you never try.”</em></p>
+<h3 align="center">📊 Trainer Card Data</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bathonSpidey&color=orange&label=TRAINER%20SEEINGS&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bathonSpidey&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Abir's Pokédex Stats" />
+</p>
+
+<p align="center">
+  <i>“A wild BUG appeared! Trainer used <b>DEBUG</b>. It’s super effective!”</i>
+</p>
+
+<p align="center"><strong>“You will never know if you never try.”</strong></p>
+
+---
