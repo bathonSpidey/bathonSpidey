@@ -12,15 +12,20 @@
 ---
 
 ## 🎮 Trainer Card
-<details>
-<summary><strong>Trainer Details</strong></summary>
 
-> 🧑‍💻 **Trainer:** Abir Bhattacharyya  
-> 🏆 **Code Honor:** [CodeWars](https://www.codewars.com/users/Abirino)  
-> 🧪 **Research XP:** [ResearchGate](https://www.researchgate.net/profile/Abir-Bhattacharyya-5)  
-> 🎯 **Focus Areas:** AI · Robotics · Gen AI · Embedded Systems  
-> 🌐 **Portfolio:** [acewebslinger](https://roboinno.web.app/)  
-> ✍️ **Blog:** [Be The Change](https://roboinno.wordpress.com/)
+<details open>
+<summary><strong>View Trainer Profile</strong></summary>
+
+| **Field** | **Information** |
+| :--- | :--- |
+| 🧑‍💻 **Trainer** | **Abir Bhattacharyya** |
+| 🎯 **Focus Areas** | `AI` · `Robotics` · `Gen AI` · `Embedded Systems` |
+| 🏆 **Code Honor** | [CodeWars](https://www.codewars.com/users/Abirino) |
+| 🧪 **Research XP** | [ResearchGate](https://www.researchgate.net/profile/Abir-Bhattacharyya-5) |
+| 🌐 **Portfolio** | [acewebslinger](https://roboinno.web.app/) |
+| ✍️ **Blog** | [Be The Change](https://roboinno.wordpress.com/) |
+
+> *“Mastering the AI Development Life Cycle, one deployment at a time.”*
 
 </details>
 
