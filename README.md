@@ -173,8 +173,6 @@
   <!-- GitHub Followers as 'Party Members' -->
   <img src="https://img.shields.io/github/followers/bathonSpidey?label=Party%20Members&style=social" />
 </p>
-
-<h3 align="center">📊 Trainer Card Data</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bathonSpidey&color=orange&label=TRAINER%20SEEINGS&style=flat-square" />
 </p>
@@ -187,4 +185,3 @@
     <img src="https://img.shields.io/badge/You_Will_Never_Know-If_You_Never_Try-e65100?style=for-the-badge&logo=firebase&logoColor=white" />
   </a>
 </p>
----
