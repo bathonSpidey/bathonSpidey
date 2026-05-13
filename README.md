@@ -187,6 +187,6 @@
   <i>“A wild BUG appeared! Trainer used <b>DEBUG</b>. It’s super effective!”</i>
 </p>
 
-<p align="center"><strong>“You will never know if you never try.”</strong></p>
+[![Badge](https://img.shields.io/badge/You_Will_Never_Know-If_You_Never_Try-e65100?style=for-the-badge&logo=firebase&logoColor=white)](https://nice-readme.vercel.app/badges)
 
 ---
