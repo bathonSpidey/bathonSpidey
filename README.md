@@ -121,53 +121,44 @@
 <br/>
 
 ### 🔗 Artificial Intelligence
-*   **Terraflux** 🌾  
-    ![Scientific Model](https://img.shields.io/badge/Status-Live-success?style=flat-square) ![Field](https://img.shields.io/badge/Focus-AgriTech-green?style=flat-square)  
+*   **Terraflux** ![Scientific Model](https://img.shields.io/badge/Status-Live-success?style=flat-square) ![Field](https://img.shields.io/badge/Focus-AgriTech-green?style=flat-square)  
     *Scientific water retention model combined with Agents to provide irrigation insights for farmers.*  
     [**Explore Terraflux**](https://raiseagriculture.com/products/irrigation)
 
-*   **AgroLume** 🔎  
-    ![Computer Vision](https://img.shields.io/badge/Tech-Vision_AI-blue?style=flat-square)  
+*   **AgroLume** ![Computer Vision](https://img.shields.io/badge/Tech-Vision_AI-blue?style=flat-square)  
     *Vision-based crop monitoring system designed to analyze and shed light on nutrient content.*  
     [**View Project**](https://raiseagriculture.com/products/monitoring)
 
-*   **Whisk Wizard** 🧙‍♂️  
-    ![GenAI](https://img.shields.io/badge/Tech-Gen_AI-orange?style=flat-square)  
+*   **Whisk Wizard**  ![GenAI](https://img.shields.io/badge/Tech-Gen_AI-orange?style=flat-square)  
     *AI-generated cooking recipes that bring a touch of magic to your daily meals.*  
     [**Start Cooking**](https://whiskwizard-e45a0.web.app/)
 
-*   **Auralis** 🎵  
-    ![API](https://img.shields.io/badge/Integrates-Spotify-1DB954?style=flat-square)  
+*   **Auralis** ![API](https://img.shields.io/badge/Integrates-Spotify-1DB954?style=flat-square)  
     *A personalized AI agent built on Streamlit to curate your perfect soundscape.*  
     [**Listen Now**](https://auralis-7hhf8fgymxuwbpzyumhtcq.streamlit.app/)
 
-*   **Sortly** 🧹  
-    ![Automation](https://img.shields.io/badge/Type-Automation-red?style=flat-square)  
+*   **Sortly** ![Automation](https://img.shields.io/badge/Type-Automation-red?style=flat-square)  
     *An intelligent agent that autonomously cleans and organizes overloaded, messy folders.*  
     [**Check GitHub**](https://www.github.com/bathonSpidey/Sortly)
 
 ---
 
 ### 🧱 Fullstack & Architecture
-*   **Raise Website** 🌐  
-    ![Stack](https://img.shields.io/badge/Stack-FastAPI%20%7C%20React%20%7C%20MongoDB-blue?style=flat-square)  
+*   **Raise Website**  ![Stack](https://img.shields.io/badge/Stack-FastAPI%20%7C%20React%20%7C%20MongoDB-blue?style=flat-square)  
     *A community-driven platform for modern farming powered by a robust backend.*  
     [**Visit Raise**](https://raiseagriculture.com)
 
-*   **Team Building App** 🕸️  
-    ![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)  
+*   **Team Building App** ![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)  
     *Next.js powered online escape rooms designed for remote team engagement.*
 
-*   **Personal Website** 💻  
-    ![Design](https://img.shields.io/badge/UI-Tailwind_CSS-38B2AC?style=flat-square)  
+*   **Personal Website**  ![Design](https://img.shields.io/badge/UI-Tailwind_CSS-38B2AC?style=flat-square)  
     *A minimalist space to connect with like-minded creators and showcase new builds.*  
     [**roboinno.web.app**](https://roboinno.web.app/)
 
 ---
 
 ### 🥷 Operations & Deep Tech
-*   **Neural Network from Scratch** 🧠  
-    ![CI/CD](https://img.shields.io/badge/Ops-Jenkins%20%26%20GitHub_Actions-white?style=flat-square&logo=jenkins)  
+*   **Neural Network from Scratch**  ![CI/CD](https://img.shields.io/badge/Ops-Jenkins%20%26%20GitHub_Actions-white?style=flat-square&logo=jenkins)  
     *A fundamental implementation featuring a full automation pipeline for testing and deployment.*
 
 > **Note:** All AI projects listed above utilize custom-built **Ops pipelines** for continuous integration and delivery.
