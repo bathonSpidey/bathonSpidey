@@ -180,13 +180,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bathonSpidey&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Abir's Pokédex Stats" />
+  <i>“A wild BUG appeared! Abirinno used <b>DEBUG</b>. It’s super effective!”</i>
 </p>
-
 <p align="center">
-  <i>“A wild BUG appeared! Trainer used <b>DEBUG</b>. It’s super effective!”</i>
-</p>
-
 [![Badge](https://img.shields.io/badge/You_Will_Never_Know-If_You_Never_Try-e65100?style=for-the-badge&logo=firebase&logoColor=white)](https://nice-readme.vercel.app/badges)
-
+</p>
 ---
